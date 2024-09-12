@@ -1,5 +1,5 @@
 # BERN02_workflowassignment
-A simple mathematical function with a test vector
+A simple mathematical function with a test vector available in a upyter notebook format.
 
 This notebook runs the function
 $$ y = x^2+2x+4. $$
